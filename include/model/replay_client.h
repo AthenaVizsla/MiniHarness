@@ -2,7 +2,7 @@
 // PROVIDED — do not modify.
 
 #pragma once
-#include "c:/Users/Athena/Documents/School/NC_State/2026_Fall/ECE_309/VSCode/MiniHarness/include/model/model_client.h"
+#include "include/model/model_client.h"
 #include <string>
 #include <vector>
 

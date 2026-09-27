@@ -2,7 +2,7 @@
 // PROVIDED — do not modify. Matches the ModelClient interface in spec §3.3.
 
 #pragma once
-#include "c:/Users/Athena/Documents/School/NC_State/2026_Fall/ECE_309/VSCode/MiniHarness/include/core/conversation.h"
+#include "include/core/conversation.h"
 #include <string_view>
 
 struct StopReason {
