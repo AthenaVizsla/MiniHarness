@@ -4,7 +4,7 @@
 #include <cstddef>
 #include <utility>
 
-#include "core/message.h"
+#include "c:/Users/Athena/Documents/School/NC_State/2026_Fall/ECE_309/VSCode/MiniHarness/include/core/message.h"
 
 class Conversation {
 public:

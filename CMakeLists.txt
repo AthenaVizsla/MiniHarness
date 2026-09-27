@@ -13,6 +13,8 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra -Wpedantic -fsanitize=addr
 set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -fsanitize=address,undefined")
 
 include_directories(include)
+target_include_directories(miniharness PRIVATE include)
+target_include_directories(p2_tests PRIVATE include)
 
 # 1. Define the core files (everything EXCEPT main.cpp).
 set(CORE_SOURCES
