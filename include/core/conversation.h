@@ -4,7 +4,7 @@
 #include <cstddef>
 #include <utility>
 
-#include "include/core/message.h"
+#include "core/message.h"
 
 class Conversation {
 public:

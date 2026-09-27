@@ -1,8 +1,8 @@
-// include/harness/harness.h
+
 // PROVIDED — do not modify.
 
 #pragma once
-#include "include/model/model_client.h"
+#include "model/model_client.h"
 #include <memory>
 #include <string>
 

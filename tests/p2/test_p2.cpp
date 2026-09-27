@@ -7,12 +7,12 @@
 // This file is a stub so the project builds out of the box; replace the
 // body of main() with your own tests.
 
-#include "include/core/conversation.h"
-#include "include/core/message.h"
-#include "include/core/sentinel_scanner.h"
-#include "include/harness/harness.h"
-#include "include/model/replay_client.h"
-#include "include/model/scripted_client.h"
+#include "core/conversation.h"
+#include "core/message.h"
+#include "core/sentinel_scanner.h"
+#include "harness/harness.h"
+#include "model/replay_client.h"
+#include "model/scripted_client.h"
 
 #include <cassert>
 

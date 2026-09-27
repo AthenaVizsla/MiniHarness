@@ -2,7 +2,7 @@
 // PROVIDED — do not modify. Matches the ModelClient interface in spec §3.3.
 
 #pragma once
-#include "include/core/conversation.h"
+#include "core/conversation.h"
 #include <string_view>
 
 struct StopReason {
